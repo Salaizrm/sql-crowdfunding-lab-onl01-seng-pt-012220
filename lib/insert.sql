@@ -18,3 +18,5 @@ INSERT INTO users (id, name, age) VALUES (17,"nazz",10);
 INSERT INTO users (id, name, age) VALUES (18,"jimmy",9);
 INSERT INTO users (id, name, age) VALUES (19,"sarah",9);
 INSERT INTO users (id, name, age) VALUES (20,"plank",100);
+-------------------------------------------------------------
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (1,"covid cure","essentials",10000000, )
