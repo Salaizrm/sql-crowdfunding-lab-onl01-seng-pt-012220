@@ -7,3 +7,5 @@ INSERT INTO users (id, name, age) VALUES (6,"pebbles",2);
 INSERT INTO users (id, name, age) VALUES (7,"gazoo",200);
 INSERT INTO users (id, name, age) VALUES (8,"mr.slate",60);
 INSERT INTO users (id, name, age) VALUES (9,"grim",300);
+INSERT INTO users (id, name, age) VALUES (10,"billy"10);
+INSERT INTO users (id, name, age) VALUES (11,"mandy",10);
