@@ -1,3 +1,3 @@
-CREATE TABLE table (
+CREATE TABLE crowdfunder (
   id INTEGER PRIMARY KEY
 );
